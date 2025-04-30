@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "CICDPipeLineRunner",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus6.actions.githubusercontent.com/yMfmGlvK49gBzvjTNqRfMZxyqsb0mfmaEF7bF78CHfIYafsAdg/",
+  "gitHubUrl": "https://github.com/OmkarSharan/springboot_CICD_pipeline",
+  "workFolder": "cicdWorkFlow"
+}

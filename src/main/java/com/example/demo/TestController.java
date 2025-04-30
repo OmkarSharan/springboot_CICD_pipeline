@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @GetMapping("/hello")
     public String sayHello() {
-        return "Gradle setup is working!";
+        return "CICD ruuner configured properly";
     }
+
+
 }
